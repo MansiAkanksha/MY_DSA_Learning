@@ -9,7 +9,6 @@
     "editor.parameterHints.enabled": false,
     "editor.acceptSuggestionOnEnter": "off"
   },
-  "files.autoSave": "afterDelay",
-  "editor.inlineSuggest.edits.allowCodeShifting": "never",
-  "editor.inlineSuggest.edits.renderSideBySide": "never"
+  "editor.inlineSuggest.enabled": false,
+  "files.autoSave": "afterDelay"
 }
